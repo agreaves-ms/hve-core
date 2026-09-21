@@ -9,6 +9,7 @@ Apply these conventions whenever an RPI, HVE Builder, or compatibility workflow 
 
 ## Core Rules
 
+* Resolve every `.copilot-tracking/` path from the root of the codebase or workspace folder being worked in, regardless of where HVE Core instructions, skills, plugins, or extensions are installed. In a multi-root workspace, use the folder containing the codebase for the current task.
 * Default to `.copilot-tracking/` for every intermediate, working, or scratch file a skill produces. This file-based tracking takes precedence over memory: persist durable working state to the dated tracking artifact rather than relying on session, conversation, or working memory.
 * Persist research, planning, details, changes, and review outputs under `.copilot-tracking/` using the conventions below.
 * Use `{{task_slug}}` for task slugs and `{{YYYY-MM-DD}}` for dates. Keep `{{task_slug}}` lower-kebab-case.

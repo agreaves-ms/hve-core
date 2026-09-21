@@ -2,7 +2,7 @@
 title: GitHub Copilot Instructions
 description: Repository-specific coding guidelines and conventions for GitHub Copilot
 author: HVE Core Team
-ms.date: 2026-09-11
+ms.date: 2026-09-21
 ms.topic: reference
 keywords:
   - copilot
@@ -128,7 +128,6 @@ The instructions below are scoped to specific planning agents and their `.copilo
 
 | File                                                                                                   | Applies To                                                         | Purpose                                           |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------|
-| [shared/hve-core-location.instructions.md](shared/hve-core-location.instructions.md)                   | `**`                                                               | Fallback location guidance for hve-core artifacts |
 | [shared/content-policy-citation.instructions.md](shared/content-policy-citation.instructions.md)       | `**/*.agent.md, **/*.prompt.md, **/*.instructions.md, **/SKILL.md` | Content-policy and terms-of-service guardrails    |
 | [shared/coaching-patterns.instructions.md](shared/coaching-patterns.instructions.md)                   | Planning agents                                                    | Exploration-first coaching patterns               |
 | [shared/planner-identity-base.instructions.md](shared/planner-identity-base.instructions.md)           | Planning agents                                                    | Shared planner identity scaffold                  |
@@ -259,7 +258,6 @@ For manual creation, see [Contributing Instructions](../../docs/contributing/ins
 │   ├── coaching-patterns.instructions.md
 │   ├── content-policy-citation.instructions.md
 │   ├── disclaimer-language.instructions.md
-│   ├── hve-core-location.instructions.md
 │   ├── planner-identity-base.instructions.md
 │   ├── telemetry-overlay.instructions.md
 │   └── untrusted-content-boundary.instructions.md

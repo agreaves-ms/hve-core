@@ -32,8 +32,7 @@
     ".github/instructions/hve-core/licensing-posture.instructions.md",
     ".github/instructions/hve-core/markdown.instructions.md",
     ".github/instructions/hve-core/writing-style.instructions.md",
-    ".github/instructions/shared/content-policy-citation.instructions.md",
-    ".github/instructions/shared/hve-core-location.instructions.md"
+    ".github/instructions/shared/content-policy-citation.instructions.md"
   ],
   "skills": [
     ".github/skills/hve-core/hve-builder",
