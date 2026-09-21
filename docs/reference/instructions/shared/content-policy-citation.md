@@ -1,9 +1,9 @@
 ---
 title: Shared/Content Policy Citation
 description: Content-policy and terms-of-service guardrails for public output and eval stimuli
-sidebar_position: 2
+sidebar_position: 1
 author: Microsoft
-ms.date: 2026-08-27
+ms.date: 2026-09-21
 ms.topic: reference
 keywords:
   - instruction

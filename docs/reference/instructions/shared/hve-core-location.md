@@ -1,9 +1,9 @@
 ---
 title: Shared/Hve Core Location
 description: "Important: hve-core is the repository containing this instruction file; Guidance: resolve operational .github references from this file's artifact root, including before a workspace-relative lookup or after a failed lookup."
-sidebar_position: 4
+sidebar_position: 2
 author: Microsoft
-ms.date: 2026-09-20
+ms.date: 2026-09-21
 ms.topic: reference
 keywords:
   - instruction

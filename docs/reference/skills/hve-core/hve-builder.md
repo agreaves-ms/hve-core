@@ -1,9 +1,9 @@
 ---
 title: hve-builder
 description: "Create, improve, refactor, replace, review, or validate prompts, instructions, agents, subagents, and skills. Use for Copilot customization cleanup, extending HVE workflows with project-specific capabilities, and parent-owned correction of material review findings."
-sidebar_position: 4
+sidebar_position: 1
 author: Microsoft
-ms.date: 2026-09-11
+ms.date: 2026-09-21
 ms.topic: reference
 keywords:
   - skill
